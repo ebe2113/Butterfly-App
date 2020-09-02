@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/buttterfly-app/static/css/main.b478e3ea.chunk.css",
+    "main.js": "/buttterfly-app/static/js/main.24d592be.chunk.js",
+    "main.js.map": "/buttterfly-app/static/js/main.24d592be.chunk.js.map",
+    "runtime-main.js": "/buttterfly-app/static/js/runtime-main.c4e2f026.js",
+    "runtime-main.js.map": "/buttterfly-app/static/js/runtime-main.c4e2f026.js.map",
+    "static/js/2.03ece3c6.chunk.js": "/buttterfly-app/static/js/2.03ece3c6.chunk.js",
+    "static/js/2.03ece3c6.chunk.js.map": "/buttterfly-app/static/js/2.03ece3c6.chunk.js.map",
+    "index.html": "/buttterfly-app/index.html",
+    "precache-manifest.9c7fa592a46a7a5541d3d1af3ea39a53.js": "/buttterfly-app/precache-manifest.9c7fa592a46a7a5541d3d1af3ea39a53.js",
+    "service-worker.js": "/buttterfly-app/service-worker.js",
+    "static/css/main.b478e3ea.chunk.css.map": "/buttterfly-app/static/css/main.b478e3ea.chunk.css.map",
+    "static/js/2.03ece3c6.chunk.js.LICENSE.txt": "/buttterfly-app/static/js/2.03ece3c6.chunk.js.LICENSE.txt",
+    "static/media/ Butterfly2.jpg": "/buttterfly-app/static/media/ Butterfly2.d5b6df7d.jpg",
+    "static/media/Butterfly1.jpg": "/buttterfly-app/static/media/Butterfly1.201efce6.jpg",
+    "static/media/Butterfly3.jpg": "/buttterfly-app/static/media/Butterfly3.458e0494.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4e2f026.js",
+    "static/js/2.03ece3c6.chunk.js",
+    "static/css/main.b478e3ea.chunk.css",
+    "static/js/main.24d592be.chunk.js"
+  ]
+}
