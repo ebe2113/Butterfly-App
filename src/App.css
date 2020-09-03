@@ -54,4 +54,32 @@ h4 {
   top: 571px;
 }
 
+h5 {
+  width: 277px;
+  height: 38px;
+  left: 1083px;
+  top: 576px;
+}
+.butterfly-images img{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+}
+
+.butterfly-image1 img{
+  left: 85px;
+  top: 250px;
+}
+
+.butterfly-image2 img{
+  left: 584px;
+  top: 250px;
+}
+
+.butterfly-image3 img{
+  left: 1072px;
+  top: 250px;
+}
+
 
